@@ -11,6 +11,6 @@ Plugin developed for specific use case, for specific client. Will (maybe) fork f
 
 == Current Version ==
 
-~Current Version:1.0.0~
+~Current Version:1.0.1~
 
 == Change Log ==

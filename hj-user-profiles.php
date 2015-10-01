@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              http://www.midwestdigitalmarketing.com
- * @since             1.0.1
+ * @since             1.0.0
  * @package           hj_User_Profiles
  *
  * @wordpress-plugin
  * Plugin Name: hj User Profiles
  * Plugin URI:  https://github.com/MDMDevOps/HJ-User-Profiles
  * Description: Simple user profile addition, including photos and user meta
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Midwest Digital Marketing
  * Author URI:  http://www.midwestdigitalmarketing.com
  * License:     GPL-2.0+
