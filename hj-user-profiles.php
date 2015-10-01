@@ -16,7 +16,7 @@
  * Plugin Name: hj User Profiles
  * Plugin URI:  https://github.com/MDMDevOps/HJ-User-Profiles
  * Description: Simple user profile addition, including photos and user meta
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      Midwest Digital Marketing
  * Author URI:  http://www.midwestdigitalmarketing.com
  * License:     GPL-2.0+
@@ -60,7 +60,7 @@ function update_hj_user_profiles() {
         define( 'WP_GITHUB_FORCE_UPDATE', true );
         $config = array(
             'slug'                  => plugin_basename( __FILE__ ),
-            'proper_folder_name'    => 'HJ-User-Profiles',
+            'proper_folder_name'    => 'HJ-User-Profiles-master',
             'api_url'               => 'https://api.github.com/repos/MDMDevOps/HJ-User-Profiles',
             'raw_url'               => 'https://raw.github.com/MDMDevOps/HJ-User-Profiles/master',
             'github_url'            => 'https://github.com/MDMDevOps/HJ-User-Profiles',

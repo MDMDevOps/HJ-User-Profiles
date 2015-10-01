@@ -30,7 +30,7 @@ class hj_User_Profiles_Activator {
      * @since    1.0.0
      */
     public static function activate() {
-
+        // rename("/tmp/tmp_file.txt", "/home/user/login/docs/my_file.txt");
     }
 
 }
