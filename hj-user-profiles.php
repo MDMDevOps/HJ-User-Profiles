@@ -69,7 +69,7 @@ function update_hj_user_profiles() {
             'requires'              => '4.0',
             'tested'                => '4.3',
             'readme'                => 'README.md',
-            'access_token'          => '6db9b5397831d3a6c26820594f7e79e162654a13'
+            'access_token'          => 'c2e389f80c0691e6ab999752b2a158d81e6d6798'
         );
         $plugin_update = new WP_GitHub_Updater( $config );
     }
