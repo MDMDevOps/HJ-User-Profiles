@@ -60,7 +60,7 @@ function update_hj_user_profiles() {
         define( 'WP_GITHUB_FORCE_UPDATE', true );
         $config = array(
             'slug'                  => plugin_basename( __FILE__ ),
-            'proper_folder_name'    => 'HJ-User-Profiles-master',
+            'proper_folder_name'    => 'HJ-User-Profiles',
             'api_url'               => 'https://api.github.com/repos/MDMDevOps/HJ-User-Profiles',
             'raw_url'               => 'https://raw.github.com/MDMDevOps/HJ-User-Profiles/master',
             'github_url'            => 'https://github.com/MDMDevOps/HJ-User-Profiles',

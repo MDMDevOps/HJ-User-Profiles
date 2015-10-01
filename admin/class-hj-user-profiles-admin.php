@@ -203,7 +203,7 @@ class hj_User_Profiles_Admin {
         $photo_height = ( trim( $this->settings['user_photo']['height'] ) != false ) ? $this->settings['user_photo']['height'] : '9999';
         $thumb_width = $this->settings['user_thumbnail']['width'];
         $thumb_height = ( trim( $this->settings['user_thumbnail']['height'] ) != false ) ? $this->settings['user_thumbnail']['height'] : '9999';
-        $photo_crop = false;
+        $photo_crop = true;
 
         // Update sizes
         add_image_size( 'hj_profile_photo', $photo_width, $photo_height, $photo_crop );
