@@ -13,7 +13,7 @@
  * @package           hj_User_Profiles
  *
  * @wordpress-plugin
- * Plugin Name: hj User Profiles
+ * Plugin Name: HJ User Profiles
  * Plugin URI:  https://github.com/MDMDevOps/HJ-User-Profiles
  * Description: Simple user profile addition, including photos and user meta
  * Version:     1.0.2
